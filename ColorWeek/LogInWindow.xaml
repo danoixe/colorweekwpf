@@ -1,0 +1,53 @@
+﻿<Window x:Class="ColorWeek.LogInWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ColorWeek"
+        mc:Ignorable="d"
+        Title="LogInWindow" Height="500" Width="500" MaxWidth="800" MaxHeight="800" MinWidth="400" MinHeight="300" WindowStartupLocation="CenterScreen">
+
+    <Grid >
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="#FF342B79"/>
+                <GradientStop Color="#FF4D208B" Offset="0.774"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Border BorderBrush="#FF17C596" BorderThickness="1" Margin="45,45,45,45" CornerRadius="30,30,30,30" >
+        <Border.Background>
+            <SolidColorBrush Color="#FF17092B" Opacity="0.6"/>
+        </Border.Background>
+        <Grid>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Grid.Column="2"  MinHeight="23" HorizontalAlignment="Center" VerticalAlignment="Center" Name="LoginHeading" Text="Zaloguj się"  FontSize="17" FontWeight="Bold" FontStretch="ExtraCondensed" Foreground="White"/>
+            <TextBlock Grid.Row="1" Grid.Column="1" MinHeight="20" HorizontalAlignment="Right" VerticalAlignment="Center" Name="textBlock1" Text="Login" Margin="0,3,10,0" Foreground="White" FontWeight="Bold" />
+            <TextBlock Grid.Row="2" Grid.Column="1" MinHeight="20" HorizontalAlignment="Right" VerticalAlignment="Center"  Name="textBlock2" Text="Hasło" Margin="0,3,10,0" Foreground="White" FontWeight="Bold"  />
+            <TextBox Grid.Row="1" Grid.Column="2" MinHeight="30" MinWidth="200"  Name="textBoxLogin" Margin="0,5" BorderBrush="#FF15FAAC" VerticalContentAlignment="Center" TextChanged="TextBoxLogin_TextChanged" FontWeight="Bold" />
+            <PasswordBox Grid.Row="2" Grid.Column="2" MinHeight="30" MinWidth="200" Name="passwordBox1" Margin="0,5,0,0" BorderBrush="#FF15FAAC" VerticalContentAlignment="Center"/>
+            <Button Grid.Row="4" Grid.Column="2" Content="Login" MinWidth="70" HorizontalAlignment="Center" Name="button1" Click="button1_Click" Margin="5,0,10,10" Background="#FF17C596" BorderBrush="#FF17C596" Foreground="White" FontWeight="Bold" />
+            <TextBlock Grid.Row="3" Grid.Column="2" MinHeight="23" HorizontalAlignment="Center" x:Name ="errormessage" VerticalAlignment="Center" OpacityMask="Crimson" Foreground="#FFE5572C"  />
+            <TextBlock Grid.Row="5" Grid.Column="2" MinHeight="20" Name="textBlockHeading" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="12" FontStyle="Italic" Padding="0" Foreground="White" Margin="0,10,0,0">  
+            Jeżeli nie masz jeszcze konta  
+            <TextBlock>  
+                 <Hyperlink Click="buttonRegister_Click" FontSize="12" FontStyle="Normal" Foreground="#FF17C596">Zarejestruj się</Hyperlink>  
+            </TextBlock> 
+        </TextBlock>
+        </Grid>
+    </Border>
+    </Grid>
+</Window>
