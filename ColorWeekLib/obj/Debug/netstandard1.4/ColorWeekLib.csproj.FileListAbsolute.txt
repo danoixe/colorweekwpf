@@ -1,0 +1,8 @@
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekLib\bin\Debug\netstandard1.4\ColorWeekLib.deps.json
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekLib\bin\Debug\netstandard1.4\ColorWeekLib.dll
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekLib\bin\Debug\netstandard1.4\ColorWeekLib.pdb
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekLib\obj\Debug\netstandard1.4\ColorWeekLib.csprojAssemblyReference.cache
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekLib\obj\Debug\netstandard1.4\ColorWeekLib.csproj.CoreCompileInputs.cache
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekLib\obj\Debug\netstandard1.4\ColorWeekLib.AssemblyInfo.cs
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekLib\obj\Debug\netstandard1.4\ColorWeekLib.dll
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekLib\obj\Debug\netstandard1.4\ColorWeekLib.pdb
