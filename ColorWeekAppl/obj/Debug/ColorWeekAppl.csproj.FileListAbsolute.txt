@@ -1,0 +1,17 @@
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekAppl\bin\Debug\ColorWeekAppl.dll
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekAppl\bin\Debug\ColorWeekAppl.pdb
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekAppl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekAppl\obj\Debug\ColorWeekAppl_MarkupCompile.cache
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekAppl\obj\Debug\ColorWeekAppl_MarkupCompile.lref
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekAppl\obj\Debug\Themes\Generic.baml
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekAppl\obj\Debug\ColorWeekAppl.g.resources
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekAppl\obj\Debug\ColorWeekAppl.Properties.Resources.resources
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekAppl\obj\Debug\ColorWeekAppl.csproj.GenerateResource.cache
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekAppl\obj\Debug\ColorWeekAppl.csproj.CoreCompileInputs.cache
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekAppl\obj\Debug\ColorWeekAppl.dll
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekAppl\obj\Debug\ColorWeekAppl.pdb
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekAppl\obj\Debug\ColorWeekAppl.csprojAssemblyReference.cache
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekAppl\obj\Debug\EditDay.g.cs
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekAppl\obj\Debug\EditDay.baml
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekAppl\obj\Debug\EditDayAdm.g.cs
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekAppl\obj\Debug\EditDayAdm.baml
