@@ -1,0 +1,6 @@
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekApp\bin\Debug\ColorWeekApp.exe
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekApp\bin\Debug\ColorWeekApp.pdb
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekApp\obj\Debug\ColorWeekApp.csprojAssemblyReference.cache
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekApp\obj\Debug\ColorWeekApp.csproj.CoreCompileInputs.cache
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekApp\obj\Debug\ColorWeekApp.exe
+C:\Users\dsobieraj\source\repos\ColorWeek\ColorWeekApp\obj\Debug\ColorWeekApp.pdb
